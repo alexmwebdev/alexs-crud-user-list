@@ -4,7 +4,7 @@ This App provides CRUD support for an user list website system, and a frontend t
 
 ## Backend
 
-The backend includes a mock database in the db/mockData/users.js file. The backend uses an ORM system called [sequelize](https://sequelize.org/), works with multiple SQL databases like Postgres, mysql, mariadb, sqlite and Microsoft SQL Server. For this project I have decided to use Postgres.
+The backend includes a mock database in the db/mockData/users.js file. The backend uses an ORM system called sequelize that works with multiple SQL databases like Postgres, mysql, mariadb, sqlite and Microsoft SQL Server. For this project I have decided to use Postgres.
 
 ## Frontend
 
@@ -13,8 +13,8 @@ The frontEnd will be served by the backend, so you will need to run both to see 
 ## Installation
 
 
-git clone https://github.com/ajsevillano/users-CRUD.git
-cd users-CRUD
+git clone https://github.com/alexmwebdev/alexs-crud-user-list.git
+cd alexs-crud-user-list
 npm install
 
 # .env file
