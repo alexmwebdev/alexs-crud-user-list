@@ -17,7 +17,7 @@ export const User = sequelize.define(
       type: DataTypes.TEXT,
       allowNull: false,
     },
-    catchphrase: {
+    description: {
       type: DataTypes.TEXT,
     },
   },

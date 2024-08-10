@@ -5,7 +5,7 @@ export const users = [
     first_name: 'Arabele',
     last_name: 'Halston',
     email: 'ahalston0@miibeian.gov.cn',
-    catchphrase: 'Fundamental eco-centric core',
+    description: 'Fundamental eco-centric core',
     timestamp: Date.now(),
   },
   {
@@ -13,7 +13,7 @@ export const users = [
     first_name: 'Baron',
     last_name: 'Beagen',
     email: 'bbeagen1@guardian.co.uk',
-    catchphrase: 'Upgradable dynamic initiative',
+    description: 'Upgradable dynamic initiative',
     timestamp: Date.now(),
   },
   {
@@ -21,7 +21,7 @@ export const users = [
     first_name: 'Izaak',
     last_name: 'Playfoot',
     email: 'iplayfoot2@deliciousdays.com',
-    catchphrase: 'Exclusive coherent open architecture',
+    description: 'Exclusive coherent open architecture',
     timestamp: Date.now(),
   },
   {
@@ -29,7 +29,7 @@ export const users = [
     first_name: 'Ola',
     last_name: 'Vern',
     email: 'overn3@barnesandnoble.com',
-    catchphrase: 'Synergistic interactive monitoring',
+    description: 'Synergistic interactive monitoring',
     timestamp: Date.now(),
   },
   {
@@ -37,7 +37,7 @@ export const users = [
     first_name: 'Walden',
     last_name: 'Pumfrett',
     email: 'wpumfrett4@deliciousdays.com',
-    catchphrase: 'Upgradable coherent local area network',
+    description: 'Upgradable coherent local area network',
     timestamp: Date.now(),
   },
   {
@@ -45,7 +45,7 @@ export const users = [
     first_name: 'Barth',
     last_name: 'Winchcombe',
     email: 'bwinchcombe5@earthlink.net',
-    catchphrase: 'Operative mobile capability',
+    description: 'Operative mobile capability',
     timestamp: Date.now(),
   },
   {
@@ -53,7 +53,7 @@ export const users = [
     first_name: 'Boote',
     last_name: 'Ericsson',
     email: 'bericsson6@i2i.jp',
-    catchphrase: 'Operative attitude-oriented task-force',
+    description: 'Operative attitude-oriented task-force',
     timestamp: Date.now(),
   },
   {
@@ -61,7 +61,7 @@ export const users = [
     first_name: 'Matilde',
     last_name: 'Craney',
     email: 'mcraney7@theguardian.com',
-    catchphrase: 'Digitized contextually-based hierarchy',
+    description: 'Digitized contextually-based hierarchy',
     timestamp: Date.now(),
   },
   {
@@ -69,7 +69,7 @@ export const users = [
     first_name: 'Mignonne',
     last_name: 'Agiolfinger',
     email: 'magiolfinger8@arizona.edu',
-    catchphrase: 'Cloned bi-directional synergy',
+    description: 'Cloned bi-directional synergy',
     timestamp: Date.now(),
   },
   {
@@ -77,7 +77,7 @@ export const users = [
     first_name: 'Niki',
     last_name: 'Tumbelty',
     email: 'ntumbelty9@parallels.com',
-    catchphrase: 'Profit-focused directional synergy',
+    description: 'Profit-focused directional synergy',
     timestamp: Date.now(),
   },
   {
@@ -85,7 +85,7 @@ export const users = [
     first_name: 'Sarita',
     last_name: 'Mc Faul',
     email: 'smcfaula@ucoz.ru',
-    catchphrase: 'Multi-layered intangible leverage',
+    description: 'Multi-layered intangible leverage',
     timestamp: Date.now(),
   },
   {
@@ -93,7 +93,7 @@ export const users = [
     first_name: 'Nevin',
     last_name: 'McGlew',
     email: 'nmcglewb@bravesites.com',
-    catchphrase: 'Operative eco-centric archive',
+    description: 'Operative eco-centric archive',
     timestamp: Date.now(),
   },
   {
@@ -101,7 +101,7 @@ export const users = [
     first_name: 'Fitzgerald',
     last_name: 'Dyment',
     email: 'fdymentc@usa.gov',
-    catchphrase: 'Front-line clear-thinking matrices',
+    description: 'Front-line clear-thinking matrices',
     timestamp: Date.now(),
   },
   {
@@ -109,7 +109,7 @@ export const users = [
     first_name: 'Olav',
     last_name: 'Brewett',
     email: 'obrewettd@skype.com',
-    catchphrase: 'Profit-focused value-added middleware',
+    description: 'Profit-focused value-added middleware',
     timestamp: Date.now(),
   },
   {
@@ -117,7 +117,7 @@ export const users = [
     first_name: 'Barbee',
     last_name: 'Montes',
     email: 'bmontese@spiegel.de',
-    catchphrase: 'Polarised cohesive model',
+    description: 'Polarised cohesive model',
     timestamp: Date.now(),
   },
   {
@@ -125,7 +125,7 @@ export const users = [
     first_name: 'Reagen',
     last_name: 'Rowlatt',
     email: 'rrowlattf@biblegateway.com',
-    catchphrase: 'Realigned methodical installation',
+    description: 'Realigned methodical installation',
     timestamp: Date.now(),
   },
   {
@@ -133,7 +133,7 @@ export const users = [
     first_name: 'Jo',
     last_name: 'Grice',
     email: 'jgriceg@examiner.com',
-    catchphrase: 'Face to face client-server secured line',
+    description: 'Face to face client-server secured line',
     timestamp: Date.now(),
   },
   {
@@ -141,7 +141,7 @@ export const users = [
     first_name: 'Caterina',
     last_name: 'Sadler',
     email: 'csadlerh@wikimedia.org',
-    catchphrase: 'Universal national access',
+    description: 'Universal national access',
     timestamp: Date.now(),
   },
   {
@@ -149,7 +149,7 @@ export const users = [
     first_name: 'Terra',
     last_name: 'Henden',
     email: 'thendeni@gnu.org',
-    catchphrase: 'Compatible fresh-thinking secured line',
+    description: 'Compatible fresh-thinking secured line',
     timestamp: Date.now(),
   },
   {
@@ -157,7 +157,7 @@ export const users = [
     first_name: 'Jobi',
     last_name: 'Blackie',
     email: 'jblackiej@mapquest.com',
-    catchphrase: 'Customer-focused well-modulated support',
+    description: 'Customer-focused well-modulated support',
     timestamp: Date.now(),
   },
   {
@@ -165,7 +165,7 @@ export const users = [
     first_name: 'Conny',
     last_name: 'Kirkman',
     email: 'ckirkmank@upenn.edu',
-    catchphrase: 'Versatile asymmetric capacity',
+    description: 'Versatile asymmetric capacity',
     timestamp: Date.now(),
   },
   {
@@ -173,7 +173,7 @@ export const users = [
     first_name: 'Bary',
     last_name: 'Gingold',
     email: 'bgingoldl@twitpic.com',
-    catchphrase: 'Ameliorated 24 hour contingency',
+    description: 'Ameliorated 24 hour contingency',
     timestamp: Date.now(),
   },
   {
@@ -181,7 +181,7 @@ export const users = [
     first_name: 'Filbert',
     last_name: 'Gilcrist',
     email: 'fgilcristm@archive.org',
-    catchphrase: 'Advanced incremental focus group',
+    description: 'Advanced incremental focus group',
     timestamp: Date.now(),
   },
   {
@@ -189,7 +189,7 @@ export const users = [
     first_name: 'Vivien',
     last_name: 'McSkin',
     email: 'vmcskinn@samsung.com',
-    catchphrase: 'Cloned interactive array',
+    description: 'Cloned interactive array',
     timestamp: Date.now(),
   },
   {
@@ -197,7 +197,7 @@ export const users = [
     first_name: 'Abelard',
     last_name: 'Gallie',
     email: 'agallieo@goo.ne.jp',
-    catchphrase: 'Exclusive interactive strategy',
+    description: 'Exclusive interactive strategy',
     timestamp: Date.now(),
   },
   {
@@ -205,7 +205,7 @@ export const users = [
     first_name: 'Augustus',
     last_name: 'Trevascus',
     email: 'atrevascusp@posterous.com',
-    catchphrase: 'Pre-emptive asymmetric open system',
+    description: 'Pre-emptive asymmetric open system',
     timestamp: Date.now(),
   },
   {
@@ -213,7 +213,7 @@ export const users = [
     first_name: 'Karlie',
     last_name: 'Andriulis',
     email: 'kandriulisq@list-manage.com',
-    catchphrase: 'Public-key empowering migration',
+    description: 'Public-key empowering migration',
     timestamp: Date.now(),
   },
   {
@@ -221,7 +221,7 @@ export const users = [
     first_name: 'Michell',
     last_name: 'Girvin',
     email: 'mgirvinr@webmd.com',
-    catchphrase: 'Grass-roots bifurcated info-mediaries',
+    description: 'Grass-roots bifurcated info-mediaries',
     timestamp: Date.now(),
   },
   {
@@ -229,7 +229,7 @@ export const users = [
     first_name: 'Dora',
     last_name: 'Yashaev',
     email: 'dyashaevs@ebay.co.uk',
-    catchphrase: 'Stand-alone solution-oriented flexibility',
+    description: 'Stand-alone solution-oriented flexibility',
     timestamp: Date.now(),
   },
   {
@@ -237,7 +237,7 @@ export const users = [
     first_name: 'Ario',
     last_name: 'Elmore',
     email: 'aelmoret@berkeley.edu',
-    catchphrase: 'Down-sized multi-state help-desk',
+    description: 'Down-sized multi-state help-desk',
     timestamp: Date.now(),
   },
   {
@@ -245,7 +245,7 @@ export const users = [
     first_name: 'Vachel',
     last_name: 'Lythgoe',
     email: 'vlythgoeu@feedburner.com',
-    catchphrase: 'Managed heuristic parallelism',
+    description: 'Managed heuristic parallelism',
     timestamp: Date.now(),
   },
   {
@@ -253,7 +253,7 @@ export const users = [
     first_name: 'Bil',
     last_name: 'Vassel',
     email: 'bvasselv@prlog.org',
-    catchphrase: 'Polarised bottom-line array',
+    description: 'Polarised bottom-line array',
     timestamp: Date.now(),
   },
   {
@@ -261,7 +261,7 @@ export const users = [
     first_name: 'Edouard',
     last_name: 'Tatershall',
     email: 'etatershallw@reference.com',
-    catchphrase: 'Managed scalable core',
+    description: 'Managed scalable core',
     timestamp: Date.now(),
   },
   {
@@ -269,7 +269,7 @@ export const users = [
     first_name: 'Stephanus',
     last_name: 'Dawidowsky',
     email: 'sdawidowskyx@sakura.ne.jp',
-    catchphrase: 'Team-oriented systemic parallelism',
+    description: 'Team-oriented systemic parallelism',
     timestamp: Date.now(),
   },
   {
@@ -277,7 +277,7 @@ export const users = [
     first_name: 'Justin',
     last_name: 'Silbersak',
     email: 'jsilbersaky@friendfeed.com',
-    catchphrase: 'Open-architected zero administration customer loyalty',
+    description: 'Open-architected zero administration customer loyalty',
     timestamp: Date.now(),
   },
   {
@@ -285,7 +285,7 @@ export const users = [
     first_name: 'Priscilla',
     last_name: 'Larimer',
     email: 'plarimerz@goo.gl',
-    catchphrase: 'Organic clear-thinking task-force',
+    description: 'Organic clear-thinking task-force',
     timestamp: Date.now(),
   },
   {
@@ -293,7 +293,7 @@ export const users = [
     first_name: 'Rona',
     last_name: 'Neno',
     email: 'rneno10@altervista.org',
-    catchphrase: 'Customizable didactic circuit',
+    description: 'Customizable didactic circuit',
     timestamp: Date.now(),
   },
   {
@@ -301,7 +301,7 @@ export const users = [
     first_name: 'Trixi',
     last_name: 'Easun',
     email: 'teasun11@tripod.com',
-    catchphrase: 'Assimilated analyzing data-warehouse',
+    description: 'Assimilated analyzing data-warehouse',
     timestamp: Date.now(),
   },
   {
@@ -309,7 +309,7 @@ export const users = [
     first_name: 'Torry',
     last_name: 'Baulcombe',
     email: 'tbaulcombe12@cisco.com',
-    catchphrase: 'Decentralized dedicated secured line',
+    description: 'Decentralized dedicated secured line',
     timestamp: Date.now(),
   },
   {
@@ -317,7 +317,7 @@ export const users = [
     first_name: 'Deerdre',
     last_name: 'Basden',
     email: 'dbasden13@ezinearticles.com',
-    catchphrase: 'Configurable next generation methodology',
+    description: 'Configurable next generation methodology',
     timestamp: Date.now(),
   },
   {
@@ -325,7 +325,7 @@ export const users = [
     first_name: 'Nicolais',
     last_name: 'Thornewell',
     email: 'nthornewell14@clickbank.net',
-    catchphrase: 'Digitized neutral installation',
+    description: 'Digitized neutral installation',
     timestamp: Date.now(),
   },
   {
@@ -333,7 +333,7 @@ export const users = [
     first_name: 'Joyce',
     last_name: 'Hurd',
     email: 'jhurd15@ask.com',
-    catchphrase: 'Intuitive human-resource firmware',
+    description: 'Intuitive human-resource firmware',
     timestamp: Date.now(),
   },
   {
@@ -341,7 +341,7 @@ export const users = [
     first_name: 'Edin',
     last_name: 'Filipov',
     email: 'efilipov16@sbwire.com',
-    catchphrase: 'Cross-group needs-based workforce',
+    description: 'Cross-group needs-based workforce',
     timestamp: Date.now(),
   },
   {
@@ -349,7 +349,7 @@ export const users = [
     first_name: 'Binky',
     last_name: 'Howler',
     email: 'bhowler17@hp.com',
-    catchphrase: 'Multi-channelled next generation framework',
+    description: 'Multi-channelled next generation framework',
     timestamp: Date.now(),
   },
   {
@@ -357,7 +357,7 @@ export const users = [
     first_name: 'Jasmina',
     last_name: 'Hamilton',
     email: 'jhamilton18@yellowpages.com',
-    catchphrase: 'Adaptive intangible infrastructure',
+    description: 'Adaptive intangible infrastructure',
     timestamp: Date.now(),
   },
   {
@@ -365,7 +365,7 @@ export const users = [
     first_name: 'Corine',
     last_name: 'Timbs',
     email: 'ctimbs19@about.com',
-    catchphrase: 'Grass-roots mobile service-desk',
+    description: 'Grass-roots mobile service-desk',
     timestamp: Date.now(),
   },
   {
@@ -373,7 +373,7 @@ export const users = [
     first_name: 'Jess',
     last_name: 'Stoile',
     email: 'jstoile1a@uiuc.edu',
-    catchphrase: 'Managed needs-based throughput',
+    description: 'Managed needs-based throughput',
     timestamp: Date.now(),
   },
   {
@@ -381,7 +381,7 @@ export const users = [
     first_name: 'Saloma',
     last_name: 'Georger',
     email: 'sgeorger1b@yahoo.com',
-    catchphrase: 'Open-architected mission-critical secured line',
+    description: 'Open-architected mission-critical secured line',
     timestamp: Date.now(),
   },
   {
@@ -389,7 +389,7 @@ export const users = [
     first_name: 'Sven',
     last_name: 'Parlott',
     email: 'sparlott1c@fema.gov',
-    catchphrase: 'Extended eco-centric migration',
+    description: 'Extended eco-centric migration',
     timestamp: Date.now(),
   },
   {
@@ -397,7 +397,7 @@ export const users = [
     first_name: 'Reube',
     last_name: 'Brierley',
     email: 'rbrierley1d@elegantthemes.com',
-    catchphrase: 'Reverse-engineered methodical methodology',
+    description: 'Reverse-engineered methodical methodology',
     timestamp: Date.now(),
   },
   {
@@ -405,7 +405,7 @@ export const users = [
     first_name: 'Shandie',
     last_name: "D'eye",
     email: 'sdeye1e@ifeng.com',
-    catchphrase: 'Universal real-time strategy',
+    description: 'Universal real-time strategy',
     timestamp: Date.now(),
   },
   {
@@ -413,7 +413,7 @@ export const users = [
     first_name: 'Inigo',
     last_name: 'Salack',
     email: 'isalack1f@blogtalkradio.com',
-    catchphrase: 'Switchable tangible middleware',
+    description: 'Switchable tangible middleware',
     timestamp: Date.now(),
   },
   {
@@ -421,7 +421,7 @@ export const users = [
     first_name: 'Dominic',
     last_name: 'Pandie',
     email: 'dpandie1g@people.com.cn',
-    catchphrase: 'Cross-group context-sensitive conglomeration',
+    description: 'Cross-group context-sensitive conglomeration',
     timestamp: Date.now(),
   },
   {
@@ -429,7 +429,7 @@ export const users = [
     first_name: 'Melisandra',
     last_name: 'Shew',
     email: 'mshew1h@amazon.com',
-    catchphrase: 'Configurable system-worthy architecture',
+    description: 'Configurable system-worthy architecture',
     timestamp: Date.now(),
   },
   {
@@ -437,7 +437,7 @@ export const users = [
     first_name: 'Base',
     last_name: 'Hubber',
     email: 'bhubber1i@geocities.jp',
-    catchphrase: 'Exclusive object-oriented local area network',
+    description: 'Exclusive object-oriented local area network',
     timestamp: Date.now(),
   },
   {
@@ -445,7 +445,7 @@ export const users = [
     first_name: 'Helyn',
     last_name: 'Aubery',
     email: 'haubery1j@cafepress.com',
-    catchphrase: 'Automated tertiary interface',
+    description: 'Automated tertiary interface',
     timestamp: Date.now(),
   },
   {
@@ -453,7 +453,7 @@ export const users = [
     first_name: 'Job',
     last_name: 'Trimming',
     email: 'jtrimming1k@weibo.com',
-    catchphrase: 'Vision-oriented holistic contingency',
+    description: 'Vision-oriented holistic contingency',
     timestamp: Date.now(),
   },
   {
@@ -461,7 +461,7 @@ export const users = [
     first_name: 'Rebeca',
     last_name: 'Bourne',
     email: 'rbourne1l@csmonitor.com',
-    catchphrase: 'Fully-configurable real-time approach',
+    description: 'Fully-configurable real-time approach',
     timestamp: Date.now(),
   },
   {
@@ -469,7 +469,7 @@ export const users = [
     first_name: 'Elwin',
     last_name: 'Lamplugh',
     email: 'elamplugh1m@pagesperso-orange.fr',
-    catchphrase: 'Visionary object-oriented benchmark',
+    description: 'Visionary object-oriented benchmark',
     timestamp: Date.now(),
   },
   {
@@ -477,7 +477,7 @@ export const users = [
     first_name: 'Marven',
     last_name: 'Brazel',
     email: 'mbrazel1n@ovh.net',
-    catchphrase: 'Multi-tiered explicit orchestration',
+    description: 'Multi-tiered explicit orchestration',
     timestamp: Date.now(),
   },
   {
@@ -485,7 +485,7 @@ export const users = [
     first_name: 'Stafford',
     last_name: 'Philipsen',
     email: 'sphilipsen1o@slate.com',
-    catchphrase: 'Polarised mission-critical open architecture',
+    description: 'Polarised mission-critical open architecture',
     timestamp: Date.now(),
   },
   {
@@ -493,7 +493,7 @@ export const users = [
     first_name: 'Melba',
     last_name: 'Hengoed',
     email: 'mhengoed1p@homestead.com',
-    catchphrase: 'Total regional internet solution',
+    description: 'Total regional internet solution',
     timestamp: Date.now(),
   },
   {
@@ -501,7 +501,7 @@ export const users = [
     first_name: 'Evie',
     last_name: 'Norville',
     email: 'enorville1q@domainmarket.com',
-    catchphrase: 'Distributed non-volatile internet solution',
+    description: 'Distributed non-volatile internet solution',
     timestamp: Date.now(),
   },
   {
@@ -509,7 +509,7 @@ export const users = [
     first_name: 'Robin',
     last_name: 'Oyley',
     email: 'royley1r@dyndns.org',
-    catchphrase: 'Organized holistic emulation',
+    description: 'Organized holistic emulation',
     timestamp: Date.now(),
   },
   {
@@ -517,7 +517,7 @@ export const users = [
     first_name: 'Gayla',
     last_name: 'Garlicke',
     email: 'ggarlicke1s@hostgator.com',
-    catchphrase: 'Implemented didactic synergy',
+    description: 'Implemented didactic synergy',
     timestamp: Date.now(),
   },
   {
@@ -525,7 +525,7 @@ export const users = [
     first_name: 'Ashien',
     last_name: 'Bedwell',
     email: 'abedwell1t@free.fr',
-    catchphrase: 'Face to face 24 hour infrastructure',
+    description: 'Face to face 24 hour infrastructure',
     timestamp: Date.now(),
   },
   {
@@ -533,7 +533,7 @@ export const users = [
     first_name: 'Salaidh',
     last_name: 'Jiggen',
     email: 'sjiggen1u@noaa.gov',
-    catchphrase: 'Decentralized incremental protocol',
+    description: 'Decentralized incremental protocol',
     timestamp: Date.now(),
   },
   {
@@ -541,7 +541,7 @@ export const users = [
     first_name: 'Abramo',
     last_name: 'Chesshyre',
     email: 'achesshyre1v@admin.ch',
-    catchphrase: 'Advanced interactive capacity',
+    description: 'Advanced interactive capacity',
     timestamp: Date.now(),
   },
   {
@@ -549,7 +549,7 @@ export const users = [
     first_name: 'Townsend',
     last_name: 'Friedenbach',
     email: 'tfriedenbach1w@samsung.com',
-    catchphrase: 'Re-contextualized directional focus group',
+    description: 'Re-contextualized directional focus group',
     timestamp: Date.now(),
   },
   {
@@ -557,7 +557,7 @@ export const users = [
     first_name: 'Anna',
     last_name: 'Hamil',
     email: 'ahamil1x@opensource.org',
-    catchphrase: 'Advanced zero administration product',
+    description: 'Advanced zero administration product',
     timestamp: Date.now(),
   },
   {
@@ -565,7 +565,7 @@ export const users = [
     first_name: 'Ad',
     last_name: 'Whiston',
     email: 'awhiston1y@walmart.com',
-    catchphrase: 'Object-based explicit parallelism',
+    description: 'Object-based explicit parallelism',
     timestamp: Date.now(),
   },
   {
@@ -573,7 +573,7 @@ export const users = [
     first_name: 'Willabella',
     last_name: 'Milkeham',
     email: 'wmilkeham1z@sbwire.com',
-    catchphrase: 'Assimilated multi-state workforce',
+    description: 'Assimilated multi-state workforce',
     timestamp: Date.now(),
   },
   {
@@ -581,7 +581,7 @@ export const users = [
     first_name: 'Kirby',
     last_name: 'Vasquez',
     email: 'kvasquez20@wikipedia.org',
-    catchphrase: 'Balanced actuating database',
+    description: 'Balanced actuating database',
     timestamp: Date.now(),
   },
   {
@@ -589,7 +589,7 @@ export const users = [
     first_name: 'Hyacintha',
     last_name: 'Postin',
     email: 'hpostin21@mtv.com',
-    catchphrase: 'Total zero administration neural-net',
+    description: 'Total zero administration neural-net',
     timestamp: Date.now(),
   },
   {
@@ -597,7 +597,7 @@ export const users = [
     first_name: 'Sonia',
     last_name: 'Mulberry',
     email: 'smulberry22@wisc.edu',
-    catchphrase: 'Enterprise-wide bandwidth-monitored system engine',
+    description: 'Enterprise-wide bandwidth-monitored system engine',
     timestamp: Date.now(),
   },
   {
@@ -605,7 +605,7 @@ export const users = [
     first_name: 'Sandra',
     last_name: 'Mackilpatrick',
     email: 'smackilpatrick23@oracle.com',
-    catchphrase: 'Networked bi-directional throughput',
+    description: 'Networked bi-directional throughput',
     timestamp: Date.now(),
   },
   {
@@ -613,7 +613,7 @@ export const users = [
     first_name: 'Lionello',
     last_name: 'Cansdale',
     email: 'lcansdale24@patch.com',
-    catchphrase: 'Programmable national info-mediaries',
+    description: 'Programmable national info-mediaries',
     timestamp: Date.now(),
   },
   {
@@ -621,7 +621,7 @@ export const users = [
     first_name: 'Jacobo',
     last_name: 'Tapp',
     email: 'jtapp25@prnewswire.com',
-    catchphrase: 'Horizontal object-oriented architecture',
+    description: 'Horizontal object-oriented architecture',
     timestamp: Date.now(),
   },
   {
@@ -629,7 +629,7 @@ export const users = [
     first_name: 'Katalin',
     last_name: 'Botley',
     email: 'kbotley26@fda.gov',
-    catchphrase: 'Centralized optimizing pricing structure',
+    description: 'Centralized optimizing pricing structure',
     timestamp: Date.now(),
   },
   {
@@ -637,7 +637,7 @@ export const users = [
     first_name: 'Wes',
     last_name: 'Ruggles',
     email: 'wruggles27@unblog.fr',
-    catchphrase: 'Down-sized intermediate intranet',
+    description: 'Down-sized intermediate intranet',
     timestamp: Date.now(),
   },
   {
@@ -645,7 +645,7 @@ export const users = [
     first_name: 'Elfie',
     last_name: 'Flieger',
     email: 'eflieger28@last.fm',
-    catchphrase: 'Exclusive encompassing standardization',
+    description: 'Exclusive encompassing standardization',
     timestamp: Date.now(),
   },
   {
@@ -653,7 +653,7 @@ export const users = [
     first_name: 'Casey',
     last_name: 'Naisey',
     email: 'cnaisey29@statcounter.com',
-    catchphrase: 'Inverse high-level collaboration',
+    description: 'Inverse high-level collaboration',
     timestamp: Date.now(),
   },
   {
@@ -661,7 +661,7 @@ export const users = [
     first_name: 'Glen',
     last_name: 'Roxby',
     email: 'groxby2a@uol.com.br',
-    catchphrase: 'Streamlined real-time interface',
+    description: 'Streamlined real-time interface',
     timestamp: Date.now(),
   },
   {
@@ -669,7 +669,7 @@ export const users = [
     first_name: 'Dasha',
     last_name: 'Huckin',
     email: 'dhuckin2b@columbia.edu',
-    catchphrase: 'Operative logistical productivity',
+    description: 'Operative logistical productivity',
     timestamp: Date.now(),
   },
   {
@@ -677,7 +677,7 @@ export const users = [
     first_name: 'Annetta',
     last_name: "De L'Isle",
     email: 'adelisle2c@so-net.ne.jp',
-    catchphrase: 'Distributed object-oriented monitoring',
+    description: 'Distributed object-oriented monitoring',
     timestamp: Date.now(),
   },
   {
@@ -685,7 +685,7 @@ export const users = [
     first_name: 'Deane',
     last_name: 'Cholonin',
     email: 'dcholonin2d@posterous.com',
-    catchphrase: 'Managed upward-trending flexibility',
+    description: 'Managed upward-trending flexibility',
     timestamp: Date.now(),
   },
   {
@@ -693,7 +693,7 @@ export const users = [
     first_name: 'Terrie',
     last_name: 'Scarr',
     email: 'tscarr2e@freewebs.com',
-    catchphrase: 'Universal 6th generation orchestration',
+    description: 'Universal 6th generation orchestration',
     timestamp: Date.now(),
   },
   {
@@ -701,7 +701,7 @@ export const users = [
     first_name: 'Pebrook',
     last_name: 'Helliwell',
     email: 'phelliwell2f@accuweather.com',
-    catchphrase: 'Virtual value-added hardware',
+    description: 'Virtual value-added hardware',
     timestamp: Date.now(),
   },
   {
@@ -709,7 +709,7 @@ export const users = [
     first_name: 'Thacher',
     last_name: 'Cosgrave',
     email: 'tcosgrave2g@wikipedia.org',
-    catchphrase: 'Assimilated heuristic budgetary management',
+    description: 'Assimilated heuristic budgetary management',
     timestamp: Date.now(),
   },
   {
@@ -717,7 +717,7 @@ export const users = [
     first_name: 'Miguel',
     last_name: 'Enright',
     email: 'menright2h@vimeo.com',
-    catchphrase: 'Public-key leading edge ability',
+    description: 'Public-key leading edge ability',
     timestamp: Date.now(),
   },
   {
@@ -725,7 +725,7 @@ export const users = [
     first_name: 'Celestyn',
     last_name: 'Shiel',
     email: 'cshiel2i@bing.com',
-    catchphrase: 'Balanced grid-enabled instruction set',
+    description: 'Balanced grid-enabled instruction set',
     timestamp: Date.now(),
   },
   {
@@ -733,7 +733,7 @@ export const users = [
     first_name: 'Nick',
     last_name: 'Persey',
     email: 'npersey2j@bravesites.com',
-    catchphrase: 'Phased tertiary policy',
+    description: 'Phased tertiary policy',
     timestamp: Date.now(),
   },
   {
@@ -741,7 +741,7 @@ export const users = [
     first_name: 'Tailor',
     last_name: 'Cella',
     email: 'tcella2k@webeden.co.uk',
-    catchphrase: 'Intuitive attitude-oriented groupware',
+    description: 'Intuitive attitude-oriented groupware',
     timestamp: Date.now(),
   },
   {
@@ -749,7 +749,7 @@ export const users = [
     first_name: 'Ingelbert',
     last_name: 'Vella',
     email: 'ivella2l@shutterfly.com',
-    catchphrase: 'Decentralized user-facing challenge',
+    description: 'Decentralized user-facing challenge',
     timestamp: Date.now(),
   },
   {
@@ -757,7 +757,7 @@ export const users = [
     first_name: 'Jarrad',
     last_name: 'Adrain',
     email: 'jadrain2m@jiathis.com',
-    catchphrase: 'Ameliorated full-range adapter',
+    description: 'Ameliorated full-range adapter',
     timestamp: Date.now(),
   },
   {
@@ -765,7 +765,7 @@ export const users = [
     first_name: 'Dodi',
     last_name: 'Siuda',
     email: 'dsiuda2n@1und1.de',
-    catchphrase: 'Customer-focused clear-thinking info-mediaries',
+    description: 'Customer-focused clear-thinking info-mediaries',
     timestamp: Date.now(),
   },
   {
@@ -773,7 +773,7 @@ export const users = [
     first_name: 'Abigael',
     last_name: 'Azema',
     email: 'aazema2o@hexun.com',
-    catchphrase: 'Adaptive zero defect strategy',
+    description: 'Adaptive zero defect strategy',
     timestamp: Date.now(),
   },
   {
@@ -781,7 +781,7 @@ export const users = [
     first_name: 'Charil',
     last_name: 'Robertis',
     email: 'crobertis2p@narod.ru',
-    catchphrase: 'Proactive dedicated complexity',
+    description: 'Proactive dedicated complexity',
     timestamp: Date.now(),
   },
   {
@@ -789,7 +789,7 @@ export const users = [
     first_name: 'Ambrosius',
     last_name: 'Bolan',
     email: 'abolan2q@unesco.org',
-    catchphrase: 'Innovative static paradigm',
+    description: 'Innovative static paradigm',
     timestamp: Date.now(),
   },
   {
@@ -797,7 +797,7 @@ export const users = [
     first_name: 'Cherice',
     last_name: 'Ruffey',
     email: 'cruffey2r@addthis.com',
-    catchphrase: 'Visionary asynchronous concept',
+    description: 'Visionary asynchronous concept',
     timestamp: Date.now(),
   },
 ];

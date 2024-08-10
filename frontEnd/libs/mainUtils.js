@@ -17,7 +17,7 @@ export function mapUsersList(usersListById) {
       user.firstName,
       user.lastName,
       user.email,
-      user.catchphrase,
+      user.description,
       user.timestamp,
     ),
   );

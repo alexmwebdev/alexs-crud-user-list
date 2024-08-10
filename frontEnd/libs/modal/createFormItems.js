@@ -7,7 +7,7 @@ let UpdateBody = {};
 //Create fields for the Update user form
 export function createFormItems(
   id,
-  catchphrase,
+  description,
   firstName,
   lastName,
   email,
@@ -20,7 +20,7 @@ export function createFormItems(
     { id: 'firstName', value: firstName, label: 'Name' },
     { id: 'lastName', value: lastName, label: 'Last name' },
     { id: 'email', value: email, label: 'Email' },
-    { id: 'catchphrase', value: catchphrase, label: 'catchphrase' },
+    { id: 'description', value: description, label: 'description' },
   ];
   createH1Title(firstName, modalContent);
   createUpdateTime(modalContent, timestamp);

@@ -6,7 +6,7 @@ const addNewUser = document.querySelector('#add-user-button');
 addNewUser.addEventListener('click', () => createUser(formObject));
 
 /// DEFAULT VALUES FOR THE CREATE USER FORM
-let formObject = { firstName: '', lastName: '', email: '', catchphrase: '' };
+let formObject = { firstName: '', lastName: '', email: '', description: '' };
 
 //INSERT USER FORM INPUT INTO AN OBJECT TO BE SEND AS FETCH BODY
 export function updateFormObjectValues(e, key) {
@@ -48,5 +48,5 @@ export function removeAllWarningBorders() {
 
 //EMPTY THE FORMOBJECT TO BE SEND AGAIN
 export function emptyformObject() {
-  formObject = { firstName: '', lastName: '', email: '', catchphrase: '' };
+  formObject = { firstName: '', lastName: '', email: '', description: '' };
 }

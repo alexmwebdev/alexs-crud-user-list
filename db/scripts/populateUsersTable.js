@@ -6,7 +6,7 @@ async function populateUsersTable() {
     firstName: user.first_name,
     lastName: user.last_name,
     email: user.email,
-    catchphrase: user.catchphrase,
+    description: user.description,
   }));
 
   try {

@@ -9,7 +9,7 @@ function checkBodyObjPropertiesAreEmpty(body) {
   return body.hasOwnProperty('firstName') &&
     body.hasOwnProperty('lastName') &&
     body.hasOwnProperty('email') &&
-    body.hasOwnProperty('catchphrase')
+    body.hasOwnProperty('description')
     ? false
     : true;
 }
@@ -20,7 +20,7 @@ export function validateBody(body) {
   if (bodyIsEmpty) {
     return responseHandler(
       false,
-      `The body can't be empty. An object with the fields: 'fist_name','last_name','email' and 'catchphrase' need to be send as body`,
+      `The body can't be empty. An object with the fields: 'fist_name','last_name','email' and 'description' need to be send as body`,
     );
   }
 
@@ -29,7 +29,7 @@ export function validateBody(body) {
   if (propertiesAreEmpty) {
     return responseHandler(
       false,
-      `The body need to have the properties: 'fist_name','last_name','email' and 'catchphrase'`,
+      `The body need to have the properties: 'fist_name','last_name','email' and 'description'`,
     );
   }
 }

@@ -10,7 +10,7 @@ export function generateTableRow(
   firstName,
   lastName,
   email,
-  catchphrase,
+  description,
   timestamp
 ) {
   //ROW THAT CONTAINS ALL THE COLUMNS
@@ -34,7 +34,7 @@ export function generateTableRow(
   const columnEmail = createDomElement('div', email, {
     class: `w-25 bold`,
   });
-  //Column that contains the catchphrase and the update and delete buttons
+  //Column that contains the description and the update and delete buttons
   const lastColumn = createDomElement('div', null, {
     class: `table-rows-row with-buttons w-45`,
   });
@@ -50,7 +50,7 @@ export function generateTableRow(
   addLastColumnContent(
     divRow,
     lastColumn,
-    catchphrase,
+    description,
     id,
     firstName,
     lastName,
@@ -63,15 +63,15 @@ export function generateTableRow(
 function addLastColumnContent(
   divRow,
   lastColumn,
-  catchphrase,
+  description,
   id,
   firstName,
   lastName,
   email,
   timestamp
 ) {
-  //Create the catchphrase column
-  const columncatchphrase = createDomElement('div', catchphrase, {
+  //Create the description column
+  const columndescription = createDomElement('div', description, {
     class: `w-70 bold`,
   });
 
@@ -83,7 +83,7 @@ function addLastColumnContent(
 
   //Add event listener to the button
   updateButton.addEventListener('click', () =>
-    modal(id, catchphrase, firstName, lastName, email, timestamp)
+    modal(id, description, firstName, lastName, email, timestamp)
   );
 
   //Create the delete button
@@ -91,7 +91,7 @@ function addLastColumnContent(
     class: `w-15 align-end small-button alert-color`,
     id: `row-${id}`,
   });
-  lastColumn.appendChild(columncatchphrase);
+  lastColumn.appendChild(columndescription);
   lastColumn.appendChild(updateButton);
   lastColumn.appendChild(deleteButton);
 

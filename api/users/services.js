@@ -32,13 +32,13 @@ export async function createUser(newUser) {
   if (validationFails) return validationFails;
 
   //Destructuring the body
-  const { firstName, lastName, email, catchphrase } = newUser;
+  const { firstName, lastName, email, description } = newUser;
   try {
     const user = await User.create({
       firstName,
       lastName,
       email,
-      catchphrase,
+      description,
     });
     return responseHandler(true, user);
   } catch (error) {
@@ -55,7 +55,7 @@ export async function updateUserByID(id, updatedUser) {
   //Convert the string id to a number
   let userId = Number(id);
   //Destructuring the body
-  const { firstName, lastName, email, catchphrase } = updatedUser;
+  const { firstName, lastName, email, description } = updatedUser;
 
   try {
     // Update the user in the database
@@ -64,7 +64,7 @@ export async function updateUserByID(id, updatedUser) {
         firstName,
         lastName,
         email,
-        catchphrase,
+        description,
       },
       {
         where: { id: userId },
@@ -106,7 +106,7 @@ export async function deleteUserByID(id) {
   }
 }
 
-const errorMsgNoBody = `The body can't be empty. An object with the fields: 'fist_name','last_name','email' and 'catchphrase' need to be send as body`;
+const errorMsgNoBody = `The body can't be empty. An object with the fields: 'fist_name','last_name','email' and 'description' need to be send as body`;
 
 function errorMsgNotExist(userId) {
   return `The user with id ${userId} does not exist.`;
